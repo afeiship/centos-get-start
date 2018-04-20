@@ -23,3 +23,4 @@ export LANG=en_US.UTF-8
 
 ## resouces:
 + https://askubuntu.com/questions/412495/setlocale-lc-ctype-cannot-change-locale-utf-8
++ https://www.jianshu.com/p/2b24861be987
