@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-yum install -y git
+yum install -y git nodejs
 cd ~
 mkdir github git-oschina
